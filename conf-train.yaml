@@ -1,10 +1,9 @@
-path: ../img/
+path: C:\Users\jakog\Documents\kek\ai_trascal\img\
 train: train2017/images
 val: val2017/images
 
 nc: 13
 
-# Classes
 names:
   0: '0'
   1: '1'
